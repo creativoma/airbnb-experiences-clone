@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-container">
         <div className="footer-container--left">
           <div className="footer-container--left--logo">
-            <img src='../../public/images/logo.svg' alt="logo" />
+            <img src='../../images/logo.svg' alt="logo" />
           </div>
           <div className="footer-container--left--links">
             <a href="#">About</a>
